@@ -13,5 +13,5 @@ Basically I have an App component here there comes our main app file and there i
 1) Let's jump into it and create a board with the 2D grid .Basically I created a board variable in react so its going to be a state variable you know need to access it very easily update it or Something it basically craetes a new 2d  Array I got a constant for the size of an array so right now we are creating 10 * 10 board Guess it will be 100 cells then I iterate over the board mapping every row to an element 
 
 
-PRODUCTION LIVE END RESULT : https://csb-0vihv5.netlify.app/
+PRODUCTION DEMO LIVE : https://csb-0vihv5.netlify.app/
 
