@@ -1,4 +1,4 @@
-# Reverse a LinkedList Snake Game Project using Pure React and Javascript :
+# Reverse a LinkedList Snake Game Project using Pure React and Vanilla Javascript :
 
 # Goal of the Project:
 1)Basically in the snake Game you're a snake on a 2D Board and usually you see a kind of outlines of the Squares int the board .you control the sanke and you've to eat the food that kind of randomly appears on the screen .There is a little like gear icon/flower icon and Whenever you eat the food your sanke gets bigger .Suppose if you hit the wall or your own tail for example your body you'll lose just to know to get a high score as possible  
